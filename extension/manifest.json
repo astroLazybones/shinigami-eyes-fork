@@ -1,10 +1,10 @@
 {
     "manifest_version": 2,
-    "name": "Shinigami Eyes",
-    "author": "Shinigami Eyes",
+    "name": "Shinigami Eyes Modded",
+    "author": "astroLazybones",
     "version": "1.0.29",
     "homepage_url": "https://shinigami-eyes.github.io/",
-    "description": "Highlights transphobic/anti-LGBT and trans-friendly subreddits/users/facebook pages/groups with different colors.",
+    "description": "A github fork of the original shinigami eyes, adding more themes.",
     "icons": {
         "48": "icons/icon-48.png",
         "128": "icons/icon-128-96.png"
