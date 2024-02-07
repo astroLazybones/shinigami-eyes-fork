@@ -18,6 +18,11 @@ body {
    --ShinigamiEyesTransphobic: #FB6A4A;
 }
 
+.shinigami-eyes-theme-cyan-red {
+   --ShinigamiEyesTFriendly: rgb(98, 161, 197);
+   --ShinigamiEyesTransphobic: #FF0000;
+}
+
 .assigned-label-transphobic, a.assigned-label-transphobic { color: var(--ShinigamiEyesTransphobic) !important; }
 .assigned-label-t-friendly, a.assigned-label-t-friendly { color: var(--ShinigamiEyesTFriendly) !important; }
 
