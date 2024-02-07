@@ -9,7 +9,7 @@ browser.storage.local.get(['theme'], obj => {
         'green-red',
         'purple-yellow',
         'cyan-orange',
-        'blue-pink',
+        'cyan-red',
     ].map(x => {
         themeSettingsContainer.insertAdjacentHTML('beforeend', `
         <label class="shinigami-eyes-theme shinigami-eyes-theme-${x}">
